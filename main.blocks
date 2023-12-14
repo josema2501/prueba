@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id=";O#)2-odb;U//lE0I]]2" x="65" y="182"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="lW+CG[?`ar{kU0x9b-Sv"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id=";O#)2-odb;U//lE0I]]2" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="lW+CG[?`ar{kU0x9b-Sv"><field name="LEDS">`
         . . . . . 
         . # . # # 
         . . # # . 
